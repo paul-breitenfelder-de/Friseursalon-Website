@@ -4,3 +4,6 @@
 
 <b>Deutsch: Beispiel für eine Website eines Friseursalons</b>
 <br>Benutze es gerne als Vorlage für deine Website! Ich hoffe ich kann dir damit weiterhelfen und ein wenig Inspiration geben.
+
+<b>PREVIEW / VORSCHAU:</b>
+<a href="friseur-salon.netlify.app">friseur-salon.netlify.app</a>
